@@ -14,3 +14,5 @@ Once data is cleaned, it is vectorized to give a numeric represenation and feede
 - Logistic Regression
 
 The various metrics what we calculate the model performance are Accuracy, Confidence Score and full Summary report to have insight about various other metric values like F1 score, precision etc.
+
+Please mail me for any comments or suggestions at shitizaggarwal.ai@gmail.com
